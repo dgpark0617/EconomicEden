@@ -1394,21 +1394,24 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-reHI6xAfrf {
-  background-image: url("../../../assets/images/instagram-1-1016x930.png");
+.cid-reHX2wbSkm {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
 }
-.cid-reHI6xAfrf h1 {
-  color: #616161;
-}
-.cid-reHI6xAfrf h2,
-.cid-reHI6xAfrf h3,
-.cid-reHI6xAfrf p {
-  color: #767676;
-}
-.cid-reHI6xAfrf .mbr-section-subtitle {
+.cid-reHX2wbSkm .testimonial-text {
   font-style: italic;
+  color: #676767;
+  font-weight: 300;
 }
-.cid-reHI6xAfrf H1 {
+.cid-reHX2wbSkm .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-reHX2wbSkm .mbr-author-desc {
+  color: #232;
+}
+.cid-reHX2wbSkm .testimonial-text SPAN {
   color: #000000;
 }
 .cid-reEgixE6p4 {
