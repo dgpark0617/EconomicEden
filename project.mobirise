@@ -2515,13 +2515,13 @@
               "color": "#232323"
             },
             "H1": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323"
             },
             "B": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_name": "header2",
@@ -2724,7 +2724,7 @@
             },
             ".mbr-author-name": {
               "font-weight": "bold",
-              "color": "#232"
+              "color": "#000000"
             },
             ".mbr-author-desc": {
               "color": "#232"
