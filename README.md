@@ -1,2 +1,1 @@
-# hankookmaterial
-GitHub Pages
+# for open project
